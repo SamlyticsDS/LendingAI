@@ -2,8 +2,8 @@
 
 ## Empowering UK Financial Institutions with Transparent & Ethical AI Lending
 
-**Project Maintainer:** [Your Name/Organisation Name]
-**Contact:** [Your Email/LinkedIn Profile]
+**Project Maintainer:** Samlytics Data Service
+**Contact:** contactus@samlytics.co.uk
 
 ---
 
