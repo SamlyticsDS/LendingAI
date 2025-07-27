@@ -80,7 +80,8 @@ To run this project locally or deploy it within your GCP environment:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-github-username/unfair-lending-detector.git](https://github.com/your-github-username/unfair-lending-detector.git)
+    git clone [https://github.com/SamlyticsDS/LendingAI/tree/main](https://github.com/SamlyticsDS/LendingAI/tree/main)
+    
     cd unfair-lending-detector
     ```
 2.  **Set up Google Cloud:**
