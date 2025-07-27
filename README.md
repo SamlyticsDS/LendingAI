@@ -80,7 +80,7 @@ To run this project locally or deploy it within your GCP environment:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/SamlyticsDS/LendingAI/tree/main](https://github.com/SamlyticsDS/LendingAI/tree/main)
+    git clone [https://github.com/SamlyticsDS/unfair-lending-detector](https://github.com/SamlyticsDS/unfair-lending-detector)
     
     cd unfair-lending-detector
     ```
